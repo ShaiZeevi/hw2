@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shai.zeevi/CLionProjects/Competitive Programming/hw2/uva_1254.cpp
+algorithm
+-
+string
+-
+iostream
+-
+vector
+-
+sstream
+-
+unordered_map
+-
+string.h
+-
+

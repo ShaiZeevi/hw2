@@ -1,0 +1,3 @@
+C:/Users/shai.zeevi/CLionProjects/Competitive Programming/hw2/cmake-build-debug/CMakeFiles/hw2.dir
+C:/Users/shai.zeevi/CLionProjects/Competitive Programming/hw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shai.zeevi/CLionProjects/Competitive Programming/hw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

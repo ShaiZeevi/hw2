@@ -3,4 +3,4 @@ project(hw2)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(hw2 uva_11362.cpp)
+add_executable(hw2 uva_1254.cpp)
